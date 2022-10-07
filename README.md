@@ -2,20 +2,6 @@
 <h3 >A professional Android Application Developer from Bangladesh</h3>
 <h3 ><img align="center" src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" /></h3>
 
-- I am professionally wroking on **Telco Utility Apps**
-
-- 👨🏽‍💻 I’m currently learning **Flutter and Python**
-
-- My personally developed Android apps on Play Store: [BDIX Tester,Pi Dash,VLSM Calculator](https://play.google.com/store/apps/developer?id=Mr.Unpredictable)
-
-- 📝 I regularly write articles on [https://bd.linkedin.com/in/shubhobrataroy](https://bd.linkedin.com/in/shubhobrataroy)
-
-- 💬 Ask me about **Android , Java , Kotlin**
-
-- 📫 How to reach me **shubho16.2@gmail.com**
-
-- 📄 Know about my experiences [https://bd.linkedin.com/in/shubhobrataroy](https://bd.linkedin.com/in/shubhobrataroy)
-
 ---
 #### Here is a free Open Source Android Application that I developed: 
 ### [BD Med Mate : An open source Android Application to access medicine database of Bangladesh](https://github.com/shubhobrataroy/BDMedMate)
@@ -40,3 +26,8 @@
 <a href="https://www.leetcode.com/shubhobrataroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhobrataroy" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Play Store profile:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/shubhobrataroy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/16903614/194519865-1914330a-7932-49fa-a909-edb878a2ceb3.png" alt="shubhobrataroy" width="200" /></a>
+</p>
